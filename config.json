@@ -1,0 +1,7 @@
+{
+    "EMAIL": "example@gmail.com",
+    "PASSWORD": "mysecretpassword",
+    "OUTPUT_DIR": "output",
+    "SERVER": "imap.gmail.com",
+    "PORT": 993
+}
